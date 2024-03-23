@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(255, 188, 235);
+
+}
+html {
+    font-size: 62.5%;
+}
+.container {
+    padding: 3rem;
+}
+h1 {
+    font-size: 3rem;
+    padding: 2rem;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+.image {
+    display: block;
+    width: 100%;
+    padding: 1rem;
+
+}
+
+
